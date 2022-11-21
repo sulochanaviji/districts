@@ -25,6 +25,6 @@ class districts:
         return dis_contains_val
 
 if __name__ == '__main__':
-    d = districts('Tamilnadu','villupuram','Gingee')
+    d = districts()
     #print(d.get_districts())
 
